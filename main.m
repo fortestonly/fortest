@@ -4,7 +4,7 @@ right line
 
 right line
 
-wrong line
+fixed line
 
 right line
 
